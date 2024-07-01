@@ -16,6 +16,8 @@ NLP Final Report
 3.	이 문제를 해결하기 위해 RAG(Retrieval-Augmented Generation) 및 Langchain 방식을 도입해 채팅 기록을 검색 가능한 데이터베이스로 만들면, 파인 튜닝 작업 없이 이미 존재하는 LLM모델을 이용하여 비슷한 작업을 수행할 수 있을 것임.
 #제출자료(데이터셋 제출은 친구에게 동의를 받지 못하여 제출하지 못하는 점 양해 부탁드립니다.)
 
+데모 영상
+https://www.youtube.com/watch?v=IaK1MpSbA1s&ab_channel=%EA%B9%80%EB%8F%84%ED%9B%88
 작업 노트북
 https://colab.research.google.com/drive/1Fva9iTx3RGyEO4Rhiaubq08yq3YVWIqU?usp=sharing 
 모델
